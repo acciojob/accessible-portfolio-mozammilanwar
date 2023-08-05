@@ -1,2 +1,9 @@
-
+a{
+	text-decoration:none;
+	color:black;
+	padding:5px;
+}
+img{
+	height:350px;
+}
 /* Your CSS Code here. */
